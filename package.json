@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "node.js": "^0.0.1-security",
+    "sequelize": "^6.37.7"
+  }
+}
